@@ -1,0 +1,6 @@
+framework module Pods_LawHub {
+  umbrella header "Pods-LawHub-umbrella.h"
+
+  export *
+  module * { export * }
+}
