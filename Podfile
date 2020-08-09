@@ -4,9 +4,9 @@
 use_frameworks!
 
 target 'LawHub' do
-pod 'Firebase', '>= 2.5.1'
-pod 'Alamofire', '~> 3.4'
-pod 'AlamofireImage', '~> 2.0'
+pod 'Firebase', '>= 3.5.1'
+pod 'Alamofire', '~> 1.4'
+pod 'AlamofireImage', '~> 3.0'
 pod 'SQLite.swift', '~> 0.10.1'
 
 end
